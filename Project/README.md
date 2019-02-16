@@ -11,3 +11,6 @@ Team #6
 28	Yuhn Jr,Darrin Joseph
 
 30	Zeng,Yue
+
+
+Project Proposal: https://github.com/freemanmoon/Big-data/wiki/Project-Proposal
